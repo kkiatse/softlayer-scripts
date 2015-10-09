@@ -9,7 +9,6 @@ UPDATEACCOUNT = {'userStatusId': 1003}  #INACTIVE
 
 #-----STARTWITHKEYWORD for users-----
 USER_STARTWITH_KEYWORD="test"
-#USER_STARTWITH_KEYWORD="apiuser01"
 
 client = SoftLayer.Client()
 
