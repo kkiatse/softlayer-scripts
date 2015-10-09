@@ -6,7 +6,7 @@ pp = pprint.PrettyPrinter(indent=4)
 NEW_PASSWORD="yourpassword"
 
 #-----STARTWITHKEYWORD for users-----
-USER_STARTWITH_KEYWORD="student"
+USER_STARTWITH_KEYWORD="test"
 
 client = SoftLayer.Client()
 
